@@ -1,2 +1,2 @@
-# recipe-api-macos
+# recipe-app-api-macos
 recipe api
